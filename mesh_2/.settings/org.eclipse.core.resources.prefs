@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+encoding//Src/APP/app_main.c=UTF-8
+encoding//Src/APP/include/lwns_mesh_example.h=UTF-8
+encoding//Src/APP/lwns_adapter_blemesh_mac.c=UTF-8
+encoding//Src/APP/lwns_adapter_no_mac.c=UTF-8
+encoding//Src/APP/lwns_mesh_example.c=UTF-8
+encoding//Src/APP/lwns_multinetflood_example.c=UTF-8
+encoding//Src/APP/lwns_netflood_example.c=UTF-8
